@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Task1</string>
+  <string name="tab_text_1">Tab 1</string>
+  <string name="tab_text_2">Tab 2</string>
+  <string name="tab_text_3">Tab 3</string>
+  <string name="address">Address</string>
+  <string name="phone_number">Phone_number</string>
+  <string name="name">Name</string>
+  <string name="todo">TODO</string>
+  <string name="btitle">Btitle</string>
+  <string name="fragment1">Fragment1</string>
+</resources>
